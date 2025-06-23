@@ -36,9 +36,15 @@ Make sure you have **Node.js** and **npm** installed on your machine.
    ```
 
 2. **Install Node Modules:**
+
+   ```bash
    npm install
+   ```
+
 3. **Run the development server:**
+   ```bash
    npx webpack
+   ```
 
 ## 💡 Key Features
 
